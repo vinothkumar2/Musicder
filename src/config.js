@@ -1,5 +1,5 @@
 // Replace these urls with your own deployment [don't give the last slash]
 
 module.exports = {
-    API_URL: 'https://jiosaavn-api-pied-eight.vercel.app'
+    API_URL: 'https://jiosaavn-api-git-v3-vinothkumar2.vercel.app/'
 }
